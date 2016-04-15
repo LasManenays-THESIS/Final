@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="StudentHelper\StudentHelper.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.My Study Buddy" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StudentHelper AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+</Properties>
